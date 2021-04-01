@@ -2,6 +2,8 @@
 This is website automation with python, selenium and webdriver off google chrome.
 
 # How to setup this project?
+  - git clone https://github.com/DeVogelRyan/Selenium-Python/
+  - cd Selenium-Python
   - pip3 install selenium
   - Install the webdriver for the right version off google chrome: https://sites.google.com/a/chromium.org/chromedriver/downloads
   (download the right one for your operating system and unzip)
